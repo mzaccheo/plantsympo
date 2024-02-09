@@ -11,14 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Corteva Symposia series presents
-    text: Welcome to the 2024 UC Davis Plant Science Symposium!
-    button: Register to attend  
+    title: Corteva Agriscience Symposia Series
+    text: 2024 UC Davis Plant Science Symposium <br> April 12 2024 @ Alumni Center 
+    button: Register to attend 
+    button: Submit an abstract 
     buttonlink: "#services"
 
   about:
     title: "About"
-    text: "write something about what is the PSS"
+    text: "write something about the PSS"
     section: about
     list:
       - title: "E-Commerce"
@@ -31,16 +32,16 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  speakers:
+    title: "Speakers"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: speakers
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
+  program:
+    title: "Program"
     text: "Lorem ipsum timeline"
-    section: timeline
+    section: program
     # left is the default
     #start_align: "left"
     events:
@@ -68,11 +69,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
+  organizers:
+    title: "Our amazing team"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    section: organizers
 
   clients:
     section: clients
