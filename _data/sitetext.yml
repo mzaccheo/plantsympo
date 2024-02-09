@@ -14,8 +14,9 @@ en: &DEFAULT_EN
     title: Corteva Agriscience Symposia Series
     text: 2024 UC Davis Plant Science Symposium <br> April 12 2024 @ Alumni Center 
     button: Register to attend 
-    button: Submit an abstract 
     buttonlink: "http://tinyurl.com/pss24rsvp"
+    button: Submit an abstract
+    buttonlink: "http://tinyurl.com/pss24abstract"
 
   about:
     title: "About"
