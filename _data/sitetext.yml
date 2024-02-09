@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Symposium!
-    text: It's Nice To Meet You
+    title: Corteva Symposia series presents
+    text: Welcome to the 2024 UC Davis Plant Science Symposium!
     button: Tell Me More
     buttonlink: "#services"
 
