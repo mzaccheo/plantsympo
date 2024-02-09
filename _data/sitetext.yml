@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     text: 2024 UC Davis Plant Science Symposium <br> April 12 2024 @ Alumni Center 
     button: Register to attend 
     button: Submit an abstract 
-    buttonlink: "#services"
+    buttonlink: "http://tinyurl.com/pss24rsvp"
 
   about:
     title: "About"
