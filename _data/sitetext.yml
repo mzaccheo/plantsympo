@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Corteva Symposia series presents
     text: Welcome to the 2024 UC Davis Plant Science Symposium!
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Register to attend  
+    buttonlink: "#Menu"
 
   services:
     title: "Services"
