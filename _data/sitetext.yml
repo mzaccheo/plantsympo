@@ -16,9 +16,8 @@ en: &DEFAULT_EN
     button:
       - title: "Register to attend"
         url: http://tinyurl.com/pss24rsvp
-      - title: "Submit an abstract"
-        url: http://tinyurl.com/pss24abstract
-
+      
+      
   about:
     title: "About"
     text: "write something about what is the PSS"
