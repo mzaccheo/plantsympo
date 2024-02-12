@@ -13,14 +13,16 @@ en: &DEFAULT_EN
   header:
     title: Corteva Agriscience Symposia Series
     text: 2024 UC Davis Plant Science Symposium <br> April 12 2024 @ Alumni Center 
-    button:
-      - title: "Register to attend"
-        url: http://tinyurl.com/pss24rsvp
+    button: Register to attend
+    buttonlink: http://tinyurl.com/pss24rsvp
       
-      
+
   about:
     title: "About"
-    text: "write something about what is the PSS"
+    text: "Our symposium is part of the larger Corteva Plant Science Symposia Series, which was started in 2008 as a series of student-run 
+    symposia at universities around the world. This will be our 13th year running the event since UC Davis inception in 2012. 
+    We are excited to be moving back to an in-person conference but are intent on maintaining the accessibility of our event with live streaming.
+    We are hoping to see an enthusiastic return of students, faculty and staff members, and industry personnel alike. We are currently in the process of finalizing our speaker list and endeavor to use this year as an opportunity to showcase the brilliant work being done by UC - Davis faculty, postdoctoral scholars, graduate students, and undergraduates. By highlighting the work of up-and-coming scientists, this symposium will facilitate a space to connect with future professionals in Plant Sciences."
     section: about
     list:
       - title: "E-Commerce"
